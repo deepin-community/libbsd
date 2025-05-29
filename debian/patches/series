@@ -2,3 +2,4 @@
 0001-funopen-Replace-off64_t-with-off_t-in-funopen_seek.patch
 0001-include-Adjust-closefrom-per-glibc-adoption.patch
 0001-man-Update-STANDARDS-and-HISTORY-sections.patch
+0001-deepin-sw_64-support.diff
